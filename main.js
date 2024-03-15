@@ -8,7 +8,7 @@ window.currQues = 0;
 // Watermark
 var copyrightDiv = document.createElement('div');
 copyrightDiv.style.cssText = 'position: fixed; bottom: 10px; width: 100%; color: black; font-size: 12px; text-align: center;';
-copyrightDiv.textContent = 'Copyright © DevTech 2023 All Rights Reserved';
+copyrightDiv.textContent = 'Copyright © CISA Internet 2024 All Rights Reserved';
 document.body.appendChild(copyrightDiv);
 
 // Welcome Toast
@@ -35,7 +35,7 @@ UI.innerHTML = `<div id="devhaxx" style="position: absolute; top: 158px; left: 1
     </div>
     </div>
     <br>
-    <h4>  Made by darian™ and Lenn106</h4>
+    <h4>  Made by caleb™ and </h4>
 </div>
 `;
 document.body.appendChild(UI);
